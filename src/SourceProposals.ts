@@ -34,8 +34,6 @@ class SourceProposals {
 
 			console.log(proposal['createdTimestamp'] + ',onchain,' + url + ',\"' + title + '\"')
 		}
-
-		return "Hello World Source";
 	}
 }
 

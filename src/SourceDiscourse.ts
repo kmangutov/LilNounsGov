@@ -2,21 +2,28 @@
 // Discourse list posts API requires Api-Key and Api-Username
 // For now just scrape
 
+import cheerio from "cheerio";
+
 const DISCOURSE_URL = 'https://discourse.lilnouns.wtf/'
 
 class SourceDiscourse {
-	public download(cb) {
-		fetch(<any>DISCOURSE_URL, {
+	public async download() {
+		const response = await fetch(<any>DISCOURSE_URL, {
 			  method: "GET",
 			  headers: {
 			    "Accept": "application/json"
 			  }
 		})
-		.then(res => res.text())
-		.then(res => console.log('res: ' + res))
-		// TODO Parse HTML with cheerio to get text, descriptions
+		
+		const responseObject = JSON.parse(await response.text())
+		
 
-		return "Hello World Source";
+		for (const topic of responseObject['topic_list']['topics']) {
+			const timestamp = parseInt("" + new Date(topic['created_at']).valueOf() / 1000)
+			const title = topic['title']
+			const url = 'https://discourse.lilnouns.wtf/t/' + topic['slug'] + '/' + topic['id']
+			console.log(timestamp + ',discourse,' + url + ',' + title)
+		}
 	}
 }
 

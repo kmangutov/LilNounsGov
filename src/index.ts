@@ -8,7 +8,7 @@ import SourcePropHouse = require('./SourcePropHouse');
 (async () => {
 	// Output: CSV
 	// timestamp,source_name,url,title
-	
+
 	const prophouse = new SourcePropHouse()
 	await prophouse.download()
 
@@ -18,8 +18,8 @@ import SourcePropHouse = require('./SourcePropHouse');
 	const snapshot = new SourceSnapshot()
 	await snapshot.download()
 
-	// TODO: SourceDiscourse scrape or get API keys
-
+	const discourse = new SourceDiscourse()
+	await discourse.download()
 })();
 
 

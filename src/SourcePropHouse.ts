@@ -23,8 +23,6 @@ class SourcePropHouse {
 				console.log(timestamp + ',prophouse,' + url + ',\"' + prop['title'] + '\"')
 			})			
 		})
-
-		return ''
 	}
 }
 

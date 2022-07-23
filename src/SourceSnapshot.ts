@@ -47,8 +47,6 @@ class SourceSnapshot {
       const url = 'https://snapshot.org/#/al409.eth/proposal/' + proposal['id']
       console.log(proposal['start'] + ',snapshot,' + url + ',\"' + proposal['title'] + '\"')
     }
-
-		return "Hello World Source";
 	}
 }
 
