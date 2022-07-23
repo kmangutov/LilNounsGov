@@ -1,16 +1,13 @@
-Lil Nouns offline data
+# Lil Nouns Gov Data
 
-Import and consolidate LilNouns off-chain data 
+Import and consolidate LilNouns on-chain and off-chain data 
 
-Off-chain data sources
-* Snapshot - TODO
-* Discourse - TODO
+Data Sources
+* [On-chain Proposals](https://lilnouns.wtf/vote) - v0 Done
+* [Prop House](https://prop.house/lil-nouns) - v0 Done
+* [Snapshot](https://snapshot.org/#/al409.eth) - v0 Done
+* [Discourse](https://discourse.lilnouns.wtf/) - WIP (Need scraping or API key)
 
-In the future, also include on-chain data
-
-On-chain data sources
-* Lil grants - https://etherscan.io/address/0x9b1d89015f353707241a0f375770ecbdc05c2ca9
-* Prop house - https://thegraph.com/hosted-service/subgraph/lilnounsdao/lil-nouns-subgraph?query=Example%20query
 
 To run:
 
@@ -24,7 +21,8 @@ Run
 npx tsc
 node ./dist/index.js
 ```
-Or
+
+Or run and output to file 'output.csv':
 ```
 sh run.sh
 ```
