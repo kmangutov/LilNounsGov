@@ -32,17 +32,21 @@ query Proposals {
 }`
 
 class SourceSnapshot {
-	public download(cb) {
-		fetch(<any>LILNOUNS_GRAPHQL, {
+	public async download() {
+		const response = await fetch(<any>LILNOUNS_GRAPHQL, {
 			method: 'POST',
 			headers: { 'Content-Type': 'application/json' },
 			body: JSON.stringify({
 				query: QUERY_PROPOSALS 
 			})
 		})
-		.then(res => res.json())
-		.then(res =>  {console.log(res.data); cb(res);})
+		const responseObject = await response.json()
 
+
+    for(const proposal of responseObject['data']['proposals']) {
+      const url = 'https://snapshot.org/#/al409.eth/proposal/' + proposal['id']
+      console.log(proposal['start'] + ',snapshot,' + url + ',\"' + proposal['title'] + '\"')
+    }
 
 		return "Hello World Source";
 	}
