@@ -1,17 +1,28 @@
 
+<html>
+<head>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
 
-<!--script src="https://unpkg.com/vue@3"></script-->
-<script src="https://cdn.jsdelivr.net/npm/vue@2.7.4"></script>
-
-<h1>hello</h1>
+<h1>Lil Nouns Proposals</h1>
 
 
 <div id="app" class="columns">
-<div class="column">
-  <proposal-component v-for="proposal in proposals" :proposal="proposal" />
-</div>
+
+<div v-for="proposal in proposals">
+<a v-bind:href="proposal.url" target="_blank"><div class="box">
+	{{proposal.timestampHuman}}
+	<br><br>
+	<h3>{{proposal.title}}</h3>
+</div></a>
 </div>
 
+</div>
 
+<script src="https://cdn.jsdelivr.net/npm/vue@2.7.4"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="index.js"></script>
+
+</body>
+</html>
