@@ -42,11 +42,18 @@ class SourceSnapshot {
 		})
 		const responseObject = await response.json()
 
+    let out = []
 
-    for(const proposal of responseObject['data']['proposals']) {
+    for(let proposal of responseObject['data']['proposals']) {
       const url = 'https://snapshot.org/#/al409.eth/proposal/' + proposal['id']
-      console.log(proposal['start'] + ',snapshot,' + url + ',\"' + proposal['title'] + '\"')
+      // console.log(proposal['start'] + ',snapshot,' + url + ',\"' + proposal['title'] + '\"')
+    
+      proposal['timestamp_unix'] = proposal['start']
+      proposal['url'] = url
+      out.push(proposal)
     }
+
+    return out
 	}
 }
 

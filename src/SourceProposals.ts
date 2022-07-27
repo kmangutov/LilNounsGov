@@ -23,17 +23,25 @@ class SourceProposals {
 			})
 		})
 
+
+		let out = []
 		const responseObject = await response.json()
 
-		for (const proposal of responseObject['data']['proposals']) {
+		for (let proposal of responseObject['data']['proposals']) {
 			 
 
 			// Shorten and remove line breaks
 			const title = proposal['description'].slice(0, 30).replace(/(\r\n|\n|\r)/gm, "") + '...'
 			const url = 'https://lilnouns.wtf/vote/' + proposal['id']
 
-			console.log(proposal['createdTimestamp'] + ',onchain,' + url + ',\"' + title + '\"')
+			// console.log(proposal['createdTimestamp'] + ',onchain,' + url + ',\"' + title + '\"')
+
+			proposal['title'] = title
+			proposal['url'] = url
+			proposal['timestamp_unix'] = proposal['createdTimestamp']
+			out.push(proposal)
 		}
+		return out
 	}
 }
 

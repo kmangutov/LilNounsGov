@@ -9,17 +9,22 @@ import SourcePropHouse = require('./SourcePropHouse');
 	// Output: CSV
 	// timestamp,source_name,url,title
 
+	let out = []
+
 	const prophouse = new SourcePropHouse()
-	await prophouse.download()
+	out = out.concat(await prophouse.download())
 
 	const onchain_proposals = new SourceProposals()
-	await onchain_proposals.download()
+	out = out.concat(await onchain_proposals.download())
 
 	const snapshot = new SourceSnapshot()
-	await snapshot.download()
+	out = out.concat(await snapshot.download())
 
 	const discourse = new SourceDiscourse()
-	await discourse.download()
+	out = out.concat(await discourse.download())
+
+	let obj = {'data': out}
+	console.log(JSON.stringify(obj))
 })();
 
 
