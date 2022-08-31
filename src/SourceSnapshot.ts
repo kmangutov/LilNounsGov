@@ -1,4 +1,5 @@
 
+import fetch from 'cross-fetch';
 // Graphql api https://docs.snapshot.org/graphql-api
 // al409.eth
 

@@ -1,5 +1,5 @@
 // Scrape https://prop.house/lil-nouns
-
+import fetch from 'cross-fetch';
 
 const PROPHOUSE_URL = 'https://prod.backend.prop.house/communities/name/lil%20nouns'
 

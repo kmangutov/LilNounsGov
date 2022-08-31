@@ -1,0 +1,52 @@
+id,createdAt,updatedAt,title,tldr,description,creatorId,votecount,comments
+9,2022-08-02T12:54:42.371Z,2022-08-02T12:54:42.371Z,"The delegation mechanism must ...","We need the delegation mechani...","Members choose recognized indi...",0x9e0e9D25a5ED9bc773f91691f0b45599255257B1,481,2
+7,2022-08-02T11:53:13.314Z,2022-08-02T11:53:13.314Z,"Grant for future Idea Board de...","The Idea Board was initially f...","If you're interesting in contr...",0x565B93a15d38aCD79c120b15432D21E21eD274d6,430,18
+27,2022-08-11T13:06:15.721Z,2022-08-11T13:06:15.722Z,"Buy more Nouns...","Buy more Nouns...","Buy more Nouns...",0x4754b7e3DEde42D71d6c92978f25F306176EC7e9,406,8
+37,2022-08-20T23:47:24.616Z,2022-08-20T23:47:24.617Z,"Implement Reserve Price....","Implement Reserve Price....","Open to ideas and comments. ...",0x31B6470f3FAE7e488DA60b5fB9713A9a41286250,362,3
+21,2022-08-07T21:33:06.679Z,2022-08-07T21:33:06.679Z,"delegation onboarding experien...","when someone wins an auction t...","take a look at https://app.opt...",0x13eEf4EF8FCa471f242ab0F8F49A3dB6017aDA33,323,2
+33,2022-08-18T06:34:38.569Z,2022-08-18T06:34:38.570Z,"Noun Lottery...","Let's randomly select one Lil ...","'Lil Nouns DAO aims at exposin...",0x8e71C9644898665a91E4dB3Dee8bDde97b3C71BC,259,5
+18,2022-08-04T04:05:55.137Z,2022-08-04T04:05:55.138Z,"A curated list and records of ...","The community should be able t...","As a new member in the past we...",0x9e0e9D25a5ED9bc773f91691f0b45599255257B1,256,0
+30,2022-08-15T13:06:47.225Z,2022-08-15T13:06:47.226Z,"Less charitable ideas, more va...","Are you a builder? Build somet...","I'm not against charity work, ...",0x9e0e9D25a5ED9bc773f91691f0b45599255257B1,224,1
+19,2022-08-04T17:46:33.903Z,2022-08-04T17:46:33.904Z,"Lil Nouns ID; Profile and hist...","Aggregate on-chain and market ...","I'm working on a small project...",0x9e0e9D25a5ED9bc773f91691f0b45599255257B1,222,10
+12,2022-08-02T14:36:46.029Z,2022-08-02T14:36:46.029Z,"Nouns101: An Onboarding Experi...","Nouns101 intro course: A lil i...","Hi all! - Adding an idea that ...",0xFC538FFD2923ddDaED09c8aD1a51686275C56183,210,4
+39,2022-08-22T14:10:13.194Z,2022-08-22T14:10:13.194Z,"Forming a council to act on be...","There have been discussions ar...","As a DAO, we should raise the ...",0x9e0e9D25a5ED9bc773f91691f0b45599255257B1,205,3
+14,2022-08-03T01:51:42.902Z,2022-08-03T01:51:42.903Z,"LIL NOUN MEME CC0 LIBRARY ...","memes. a lot of memes. ...","A CC0 meme library of mainstre...",0x1db19B9903c5510AA5a866ea643Eb021CD12Bda0,161,3
+24,2022-08-10T04:23:33.313Z,2022-08-10T04:23:33.313Z,"Noggle candles...","custom candles in noggle shape...","Let's make custom noggle-shape...",0xC06250B7ef8ab88Dc281b82db94C0fFf5bADd863,146,0
+11,2022-08-02T14:13:30.545Z,2022-08-02T14:13:30.546Z,"A team to supplement Aubtoshi ...","Create an event team that will...","IRL activations can be fun ang...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,145,4
+25,2022-08-10T04:26:27.205Z,2022-08-10T04:26:27.206Z,"World Series of Nounish Poker...","Poker tournament to win a Noun...","Multi table online poker tourn...",0xC06250B7ef8ab88Dc281b82db94C0fFf5bADd863,134,0
+22,2022-08-10T00:27:06.594Z,2022-08-10T00:27:06.595Z,"Token Weighted Prophouse Round...","Acknowledge early adopters(low...","Create prophouse rounds where-...",0x31B6470f3FAE7e488DA60b5fB9713A9a41286250,130,6
+47,2022-08-27T21:59:51.274Z,2022-08-27T21:59:51.275Z,"Lil Mandated Prop House...","It would be interesting to use...","During the past 3 weeks, the D...",0x8C868aB6EA5aA8BF37F58376f0A61c3728aEf904,127,2
+32,2022-08-17T01:24:46.130Z,2022-08-17T01:24:46.130Z,"Testing delegated voting power...","test test test test...","# nice...",0x8BecD7EbF3F910090f9264DFD0Bb221Ea04af8c3,117,0
+52,2022-08-30T00:27:32.065Z,2022-08-30T00:27:32.065Z,"Create a Noun Buying team. ...","Just refreshing this idea in c...","See tldr. ...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,112,0
+26,2022-08-10T04:28:36.162Z,2022-08-10T04:28:36.162Z,"Nectar of Nouns...","Noun wine brand...","Partner with vineyard to white...",0xC06250B7ef8ab88Dc281b82db94C0fFf5bADd863,111,0
+43,2022-08-23T12:19:38.138Z,2022-08-23T12:19:38.139Z,"SOCIAL MEDIA POD...","a group of dedicated social me...","Our social media presence is l...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,98,2
+16,2022-08-03T23:04:18.527Z,2022-08-03T23:04:18.527Z,"Hackathon...","Hackathon to bring together bu...","The introI'm a product manage...",0x50002a9B8E9938d509DE84DC3eB3aaBFBEc1451e,79,0
+17,2022-08-03T23:23:06.836Z,2022-08-03T23:23:06.836Z,"Lil Nouns blurb at back of Mon...","An lil nouns centric web3 educ...","An initial 6-issue series has ...",0x50002a9B8E9938d509DE84DC3eB3aaBFBEc1451e,60,1
+54,2022-08-30T12:27:14.463Z,2022-08-30T12:27:14.463Z,"Calendar that covers the Nouni...","A calendar that is open source...","The goal of this calendar is s...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,47,0
+6,2022-08-02T10:03:51.250Z,2022-08-02T10:03:51.251Z,"Lil Nounga - automated...","A Lil Nounga website (similar ...","Every Lil Noun joining the Lil...",0x00b0Be47fB30cc2497A3EE4160f113f35C456c6F,46,3
+51,2022-08-30T00:26:26.785Z,2022-08-30T00:26:26.786Z,"POD Funding. ...","Pods exist. People keep talkin...","Set up monthly pod budgets. In...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,45,4
+41,2022-08-22T15:58:04.516Z,2022-08-22T15:58:04.517Z,"Provide LOL wallet access to f...","Essentially set up the LOL as ...","Fund the LOL wallet with 80 ET...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,32,0
+55,2022-08-31T15:08:39.223Z,2022-08-31T15:08:39.224Z,"NOUNS DAO's COLLECTION PAGE...","A page that collects all the d...","So many Dao's, So many auction...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,19,0
+28,2022-08-12T14:55:12.192Z,2022-08-12T14:55:12.192Z,"Custom Merch Store...","Make it simple to buy shirts/f...","See above...",0xD2035514E8d8389E2d8Ac80113467a3FF1E01D08,14,1
+48,2022-08-28T09:35:16.422Z,2022-08-28T09:35:16.422Z,"Bot that populates when Lil Fu...","Unless you are tracking Lil Fu...","To increase visibility on how ...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,-19,0
+44,2022-08-24T20:30:24.743Z,2022-08-24T20:30:24.743Z,"Allow for voting on multiple p...","Currently, voting for proposal...","### ProblemVoting for propos...",0x72dabD33fe53f28FaAc3C804A562A2e3EC96573D,-21,0
+23,2022-08-10T04:21:47.513Z,2022-08-10T04:21:47.513Z,"Nounish cubed juiceboxes ...","Cube shaped custom juice boxes...","Had a dream last night we made...",0xC06250B7ef8ab88Dc281b82db94C0fFf5bADd863,-24,0
+40,2022-08-22T15:54:15.670Z,2022-08-22T15:54:15.670Z,"Bid 69.420 for Noun 415...","Noun 415 was the Noun that min...","It would have been fun to have...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,-28,0
+50,2022-08-29T22:03:54.677Z,2022-08-29T22:03:54.678Z,"Slowing down the mint time...","I'd like to propose slowing do...","I'd like to propose slowing do...",0x510E74e9Cdc8Dd5627D652a26E49480A81264ED5,-31,2
+31,2022-08-17T01:06:31.050Z,2022-08-17T01:06:31.051Z,"Lil nouns in world cup ⚽ ⌐◨-◨...","We want to building a football...","Spooky club is a project conta...",0x8F4C87E30371Ee250C5ECa1fCFf33F534F2ece4a,-32,4
+53,2022-08-30T06:03:53.475Z,2022-08-30T06:03:53.475Z,"The Lil Nouns Newsletter...","A weekly email newsletter that...","Information is disjointed acro...",0x1fe4ee4641E2A6ddf7771eB1c07412ba868bB537,-36,2
+15,2022-08-03T13:05:46.529Z,2022-08-03T13:05:46.530Z,"use snapshot voting to determi...","The amounts for prop house are...","Using snapshot voting to deter...",0x9655667Ca1203E9A2c8ea2Ed59558F9AD0ACCc87,-39,2
+38,2022-08-22T13:59:13.544Z,2022-08-22T13:59:13.545Z,"Switch to Collab Land...","Guild.xyz still ahs too many b...","TLDR is basically all i have...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,-46,1
+45,2022-08-26T19:48:36.120Z,2022-08-26T19:48:36.120Z,"AR / VR POD...","AR / VR fascinate me. Forming ...","Metaverse has become a meme un...",0x2eE0485f71764bcD2062A84d9455688c581B90f8,-53,0
+35,2022-08-19T03:41:51.094Z,2022-08-19T03:41:51.095Z,"Lil Nouns feature in the Nouns...","Vote on Prop 130 to get Lil No...","Vote on Prop 130 to get Lil No...",0xd40B63bF04a44e43fBFE5784bCf22ACaAB34a180,-55,0
+8,2022-08-02T12:47:57.537Z,2022-08-02T12:47:57.537Z,"Lil-noun exclusive traits...","Add Lil Nouns exclusive traits...","To create a unique aesthetic a...",0x6a024f521f83906671e1a23a8B6c560be7e980F4,-71,1
+42,2022-08-23T03:01:26.238Z,2022-08-23T03:01:26.239Z,"Sponsor a team of Nounish prof...","Lil Nouns promotes inclusion, ...","Lil Sisters and Nouns Proposal...",0x8e777369b4Bd6fbbF20270dC8c599Ea11d919505,-84,2
+34,2022-08-18T20:48:34.675Z,2022-08-18T20:48:34.675Z,"Sponsor a team of non-binary p...","Lil Nouns is investing in non-...","Lil Sisters and Nouns Proposal...",0x8e777369b4Bd6fbbF20270dC8c599Ea11d919505,-85,4
+49,2022-08-28T12:47:10.223Z,2022-08-28T12:47:10.223Z,"Lil Nouns DAO invest in Sorare...","We should consider developing ...","We can invest approximately 50...",0x0C1CA53324a9B43E5468664562db592Ca6ef6efA,-95,3
+36,2022-08-19T18:21:28.965Z,2022-08-19T18:21:28.966Z,"purchasing nice apes in bendda...","title says it all. what if we ...","As the ape liquidation is happ...",0x711E207B2fa8daceBb4D7cb9E4b0f77D98FAfA22,-123,0
+20,2022-08-05T03:24:19.108Z,2022-08-05T03:24:19.109Z,"Solve cryptographic puzzles to...","What if you could win 5 ETH ($...","Are you smart? Do you like cry...",0x6C4cb3C4Da1CdC4B7B1F41099F6eacbd82D8F2d2,-128,2
+46,2022-08-27T13:15:35.193Z,2022-08-27T13:15:35.194Z,"Accelerate Settlement Auctions...","If auction is not settled with...","To encourage rapid auction set...",0xD989842c7508B59D47861800B3EC2bE015Ba9DE1,-223,2
+29,2022-08-14T23:42:37.648Z,2022-08-14T23:42:37.649Z,"LIL NOUNS ON THE GROUND- 6 Mon...","Lil Nouns OTG requests to mana...","Lil Nouns DAO funding Lil Noun...",0xf9d71b5fB8345F2508C1302a74d4362DEAb7D104,-233,0
+10,2022-08-02T13:38:31.371Z,2022-08-02T13:38:31.372Z,"Live-action Movie Series Featu...","Animation promo is good...but ...","I (Con) have been an Advisor f...",0x2E2F6db34fFC3c7C99371886AB3410F8431f8691,-251,0
+5,2022-08-02T05:44:32.751Z,2022-08-02T05:44:32.751Z,"Permissionless + animated trai...","Upgrade the protocol to allow ...","Animated traits: Introduce an...",0xC3FdAdbAe46798CD8762185A09C5b672A7aA36Bb,-266,1
+13,2022-08-02T21:47:39.428Z,2022-08-02T21:47:39.428Z,"Prop voting should be on the s...","Borrowing from Bancor and ApeC...","Problem:Right now, proposals ...",0x56383A5Dd01d413fb8B38F2D0FceF5F511F1Dbb9,-299,14
